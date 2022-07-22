@@ -5,6 +5,7 @@ file: /courses/6-432-stochastic-processes-detection-and-estimation-spring-2004/3
 file_type: application/pdf
 learning_resource_types:
 - Recitations
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Recitations
 parent_type: CourseSection
@@ -14,4 +15,3 @@ title: rec8.pdf
 uid: 3f3a879f-bced-78b0-a8ee-96347202ae89
 ---
 Examples of Stochastic Processes
-

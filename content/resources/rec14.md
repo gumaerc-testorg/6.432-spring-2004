@@ -5,6 +5,7 @@ file: /courses/6-432-stochastic-processes-detection-and-estimation-spring-2004/f
 file_type: application/pdf
 learning_resource_types:
 - Recitations
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Recitations
 parent_type: CourseSection
@@ -14,4 +15,3 @@ title: rec14.pdf
 uid: f7f2cddb-73b8-38d1-020f-dc287504d1a0
 ---
 Estimation and Detection Using Periodograms
-

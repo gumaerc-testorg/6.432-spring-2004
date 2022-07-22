@@ -5,6 +5,7 @@ file: /courses/6-432-stochastic-processes-detection-and-estimation-spring-2004/5
 file_type: application/pdf
 learning_resource_types:
 - Recitations
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Recitations
 parent_type: CourseSection
@@ -14,4 +15,3 @@ title: rec5.pdf
 uid: 5c9c850e-e66a-f8d1-2414-7ae75f96b71d
 ---
 Bayes? Least Squares Estimation
-

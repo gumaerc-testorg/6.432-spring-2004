@@ -5,6 +5,7 @@ file: /courses/6-432-stochastic-processes-detection-and-estimation-spring-2004/2
 file_type: application/pdf
 learning_resource_types:
 - Assignments
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
