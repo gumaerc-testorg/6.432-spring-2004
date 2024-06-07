@@ -2,6 +2,7 @@
 content_type: resource
 description: Nonrandom Parameter Estimation
 file: /courses/6-432-stochastic-processes-detection-and-estimation-spring-2004/1bdddce863f648174c43f64a321e645a_rec6.pdf
+file_size: 35450
 file_type: application/pdf
 learning_resource_types:
 - Recitations

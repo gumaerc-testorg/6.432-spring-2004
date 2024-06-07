@@ -2,6 +2,7 @@
 content_type: resource
 description: Linear Detection from Continuous Time Processes
 file: /courses/6-432-stochastic-processes-detection-and-estimation-spring-2004/3e0920ae8771fb3299600ace078ea0f1_rec11.pdf
+file_size: 26845
 file_type: application/pdf
 learning_resource_types:
 - Recitations
