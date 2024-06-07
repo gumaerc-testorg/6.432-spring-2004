@@ -2,6 +2,7 @@
 content_type: resource
 description: ''
 file: /courses/6-432-stochastic-processes-detection-and-estimation-spring-2004/eeacd7370f529468590617b1afaf2d47_ps1.pdf
+file_size: 93289
 file_type: application/pdf
 learning_resource_types:
 - Assignments
