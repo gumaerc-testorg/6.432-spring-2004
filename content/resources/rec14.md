@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: Estimation and Detection Using Periodograms
-file: /courses/6-432-stochastic-processes-detection-and-estimation-spring-2004/f7f2cddb73b838d1020fdc287504d1a0_rec14.pdf
+file: /ol-ocw-studio-app/courses/6-432-stochastic-processes-detection-and-estimation-spring-2004/f7f2cddb73b838d1020fdc287504d1a0_rec14.pdf
 file_size: 35995
 file_type: application/pdf
 learning_resource_types:
