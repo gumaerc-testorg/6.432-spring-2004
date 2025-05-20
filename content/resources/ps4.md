@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: ''
-file: /ol-ocw-studio-app/courses/6-432-stochastic-processes-detection-and-estimation-spring-2004/ee5646fea6a7e8a3457f7849e6b81a1a_ps4.pdf
+file: /courses/6-432-stochastic-processes-detection-and-estimation-spring-2004/ee5646fea6a7e8a3457f7849e6b81a1a_ps4.pdf
 file_size: 102581
 file_type: application/pdf
 learning_resource_types:

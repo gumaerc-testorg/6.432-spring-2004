@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: Bayes? Least Squares Estimation
-file: /ol-ocw-studio-app/courses/6-432-stochastic-processes-detection-and-estimation-spring-2004/5c9c850ee66af8d124147ae75f96b71d_rec5.pdf
+file: /courses/6-432-stochastic-processes-detection-and-estimation-spring-2004/5c9c850ee66af8d124147ae75f96b71d_rec5.pdf
 file_size: 39146
 file_type: application/pdf
 learning_resource_types:
