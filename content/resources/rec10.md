@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: Binary Detection in White Gaussian Noise
-file: /courses/6-432-stochastic-processes-detection-and-estimation-spring-2004/3cfb51ce35fb9bde72134004b4aa11b5_rec10.pdf
+file: /ol-ocw-studio-app/courses/6-432-stochastic-processes-detection-and-estimation-spring-2004/3cfb51ce35fb9bde72134004b4aa11b5_rec10.pdf
 file_size: 29989
 file_type: application/pdf
 learning_resource_types:
